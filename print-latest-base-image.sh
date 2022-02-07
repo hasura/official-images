@@ -26,6 +26,6 @@ do
   fi
 
   if [ "$mode" == "file" ]; then
-    echo "$latest_base_image" > "base-image/${image_name}-latest"
+    echo "$latest_base_image" > "latest-base-image/${image_name}"
   fi
 done

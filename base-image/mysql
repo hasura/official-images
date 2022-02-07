@@ -1,0 +1,4 @@
+mysql:8.0.28: debian:buster-slim
+mysql:8.0: debian:buster-slim
+mysql:8: debian:buster-slim
+mysql:latest: debian:buster-slim

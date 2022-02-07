@@ -1,0 +1,8 @@
+mariadb:10.6.5-focal: ubuntu:focal
+mariadb:10.6-focal: ubuntu:focal
+mariadb:10-focal: ubuntu:focal
+mariadb:focal: ubuntu:focal
+mariadb:10.6.5: ubuntu:focal
+mariadb:10.6: ubuntu:focal
+mariadb:10: ubuntu:focal
+mariadb:latest: ubuntu:focal

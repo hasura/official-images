@@ -1,0 +1,6 @@
+haproxy:2.5.1: debian:bullseye-slim
+haproxy:2.5: debian:bullseye-slim
+haproxy:latest: debian:bullseye-slim
+haproxy:2.5.1-bullseye: debian:bullseye-slim
+haproxy:2.5-bullseye: debian:bullseye-slim
+haproxy:bullseye: debian:bullseye-slim

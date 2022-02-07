@@ -1,0 +1,4 @@
+rabbitmq:3.9.13: ubuntu:20.04
+rabbitmq:3.9: ubuntu:20.04
+rabbitmq:3: ubuntu:20.04
+rabbitmq:latest: ubuntu:20.04

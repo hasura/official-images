@@ -1,0 +1,2 @@
+api-firewall:0.6.7: alpine:3.15
+api-firewall:latest: alpine:3.15

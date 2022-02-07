@@ -1,0 +1,5 @@
+docker:20.10.12: alpine:3.15
+docker:20.10: alpine:3.15
+docker:20: alpine:3.15
+docker:latest: alpine:3.15
+docker:20.10.12-alpine3.15: alpine:3.15

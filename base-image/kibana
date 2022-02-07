@@ -1,0 +1,2 @@
+kibana:7.17.0: docker.elastic.co/kibana/kibana:7.17.0@sha256:2673a3599185f4ebf363077580064daa817903ccf9fda3ccf6f4fc0abdf0a6eb
+kibana:6.8.23: docker.elastic.co/kibana/kibana:6.8.23@sha256:fdf51e4f8da1538f418b556954dd3e021ecd176f403fbd10d0a751d531def2d0

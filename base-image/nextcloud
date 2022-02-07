@@ -1,0 +1,8 @@
+nextcloud:23.0.1-apache: php:8.0-apache-bullseye
+nextcloud:23.0-apache: php:8.0-apache-bullseye
+nextcloud:23-apache: php:8.0-apache-bullseye
+nextcloud:apache: php:8.0-apache-bullseye
+nextcloud:23.0.1: php:8.0-apache-bullseye
+nextcloud:23.0: php:8.0-apache-bullseye
+nextcloud:23: php:8.0-apache-bullseye
+nextcloud:latest: php:8.0-apache-bullseye

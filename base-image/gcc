@@ -1,0 +1,8 @@
+gcc:11.2.0: buildpack-deps:bullseye
+gcc:11.2: buildpack-deps:bullseye
+gcc:11: buildpack-deps:bullseye
+gcc:latest: buildpack-deps:bullseye
+gcc:11.2.0-bullseye: buildpack-deps:bullseye
+gcc:11.2-bullseye: buildpack-deps:bullseye
+gcc:11-bullseye: buildpack-deps:bullseye
+gcc:bullseye: buildpack-deps:bullseye

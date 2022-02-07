@@ -1,0 +1,4 @@
+rocket.chat:4.3.2: debian:buster-slim
+rocket.chat:4.3: debian:buster-slim
+rocket.chat:4: debian:buster-slim
+rocket.chat:latest: debian:buster-slim

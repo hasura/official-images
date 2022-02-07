@@ -1,0 +1,4 @@
+cassandra:4.0.1: eclipse-temurin:11-jre-focal
+cassandra:4.0: eclipse-temurin:11-jre-focal
+cassandra:4: eclipse-temurin:11-jre-focal
+cassandra:latest: eclipse-temurin:11-jre-focal

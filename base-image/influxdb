@@ -1,0 +1,3 @@
+influxdb:2.1: buildpack-deps:buster-curl
+influxdb:2.1.1: buildpack-deps:buster-curl
+influxdb:latest: buildpack-deps:buster-curl

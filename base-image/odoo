@@ -1,0 +1,3 @@
+odoo:15.0: debian:bullseye-slim
+odoo:15: debian:bullseye-slim
+odoo:latest: debian:bullseye-slim

@@ -1,0 +1,8 @@
+redmine:4.2.3: ruby:2.7-slim-bullseye
+redmine:4.2: ruby:2.7-slim-bullseye
+redmine:4: ruby:2.7-slim-bullseye
+redmine:latest: ruby:2.7-slim-bullseye
+redmine:4.2.3-bullseye: ruby:2.7-slim-bullseye
+redmine:4.2-bullseye: ruby:2.7-slim-bullseye
+redmine:4-bullseye: ruby:2.7-slim-bullseye
+redmine:bullseye: ruby:2.7-slim-bullseye

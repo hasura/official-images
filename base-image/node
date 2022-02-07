@@ -1,0 +1,10 @@
+node:17: buildpack-deps:bullseye
+node:17-bullseye: buildpack-deps:bullseye
+node:17.4: buildpack-deps:bullseye
+node:17.4-bullseye: buildpack-deps:bullseye
+node:17.4.0: buildpack-deps:bullseye
+node:17.4.0-bullseye: buildpack-deps:bullseye
+node:bullseye: buildpack-deps:bullseye
+node:current: buildpack-deps:bullseye
+node:current-bullseye: buildpack-deps:bullseye
+node:latest: buildpack-deps:bullseye

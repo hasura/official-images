@@ -1,0 +1,2 @@
+php-zendserver:2021.0: ubuntu:18.04
+php-zendserver:latest: ubuntu:18.04

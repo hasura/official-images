@@ -1,0 +1,4 @@
+geonetwork:4.0.6: jetty:9-jre8
+geonetwork:4.0: jetty:9-jre8
+geonetwork:4: jetty:9-jre8
+geonetwork:latest: jetty:9-jre8

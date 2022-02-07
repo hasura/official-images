@@ -1,0 +1,8 @@
+jetty:9.4.44: openjdk:17-jdk
+jetty:9.4: openjdk:17-jdk
+jetty:9: openjdk:17-jdk
+jetty:9.4.44-jdk17: openjdk:17-jdk
+jetty:9.4-jdk17: openjdk:17-jdk
+jetty:9-jdk17: openjdk:17-jdk
+jetty:latest: openjdk:17-jdk
+jetty:jdk17: openjdk:17-jdk

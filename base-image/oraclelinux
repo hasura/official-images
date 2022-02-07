@@ -1,0 +1,6 @@
+oraclelinux:8.5: scratch
+oraclelinux:8: scratch
+oraclelinux:8-slim: scratch
+oraclelinux:7.9: scratch
+oraclelinux:7: scratch
+oraclelinux:7-slim: scratch

@@ -1,0 +1,3 @@
+telegraf:1.21: buildpack-deps:bullseye-curl
+telegraf:1.21.3: buildpack-deps:bullseye-curl
+telegraf:latest: buildpack-deps:bullseye-curl

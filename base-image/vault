@@ -1,0 +1,2 @@
+vault:1.9.3: alpine:3.14
+vault:latest: alpine:3.14

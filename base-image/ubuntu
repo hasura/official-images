@@ -1,0 +1,4 @@
+ubuntu:20.04: scratch
+ubuntu:focal-20220113: scratch
+ubuntu:focal: scratch
+ubuntu:latest: scratch

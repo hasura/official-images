@@ -1,0 +1,4 @@
+express-gateway:1.x: node:12-alpine
+express-gateway:1.16.x: node:12-alpine
+express-gateway:1.16.11: node:12-alpine
+express-gateway:latest: node:12-alpine

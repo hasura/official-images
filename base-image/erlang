@@ -1,0 +1,5 @@
+erlang:24.2.1.0: buildpack-deps:bullseye
+erlang:24.2.1: buildpack-deps:bullseye
+erlang:24.2: buildpack-deps:bullseye
+erlang:24: buildpack-deps:bullseye
+erlang:latest: buildpack-deps:bullseye

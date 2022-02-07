@@ -1,0 +1,3 @@
+storm:2.3.0: openjdk:11-jre-slim
+storm:2.3: openjdk:11-jre-slim
+storm:latest: openjdk:11-jre-slim

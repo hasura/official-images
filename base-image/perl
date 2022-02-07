@@ -1,0 +1,8 @@
+perl:5.34.0: buildpack-deps:bullseye
+perl:5.34: buildpack-deps:bullseye
+perl:5: buildpack-deps:bullseye
+perl:latest: buildpack-deps:bullseye
+perl:5.34.0-bullseye: buildpack-deps:bullseye
+perl:5.34-bullseye: buildpack-deps:bullseye
+perl:5-bullseye: buildpack-deps:bullseye
+perl:bullseye: buildpack-deps:bullseye

@@ -1,0 +1,2 @@
+swipl:latest: debian:bullseye-slim
+swipl:8.5.5: debian:bullseye-slim

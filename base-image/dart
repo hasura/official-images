@@ -1,0 +1,12 @@
+dart:2.16.0-sdk: debian:buster-slim
+dart:2.16-sdk: debian:buster-slim
+dart:2-sdk: debian:buster-slim
+dart:stable-sdk: debian:buster-slim
+dart:sdk: debian:buster-slim
+dart:2.16.0: debian:buster-slim
+dart:2.16: debian:buster-slim
+dart:2: debian:buster-slim
+dart:stable: debian:buster-slim
+dart:latest: debian:buster-slim
+dart:beta-sdk: debian:buster-slim
+dart:beta: debian:buster-slim

@@ -1,0 +1,5 @@
+busybox:1.34.1: scratch
+busybox:1.34: scratch
+busybox:1: scratch
+busybox:stable: scratch
+busybox:latest: scratch

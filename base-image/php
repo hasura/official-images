@@ -1,0 +1,16 @@
+php:8.1.2-cli-bullseye: debian:bullseye-slim
+php:8.1-cli-bullseye: debian:bullseye-slim
+php:8-cli-bullseye: debian:bullseye-slim
+php:cli-bullseye: debian:bullseye-slim
+php:8.1.2-bullseye: debian:bullseye-slim
+php:8.1-bullseye: debian:bullseye-slim
+php:8-bullseye: debian:bullseye-slim
+php:bullseye: debian:bullseye-slim
+php:8.1.2-cli: debian:bullseye-slim
+php:8.1-cli: debian:bullseye-slim
+php:8-cli: debian:bullseye-slim
+php:cli: debian:bullseye-slim
+php:8.1.2: debian:bullseye-slim
+php:8.1: debian:bullseye-slim
+php:8: debian:bullseye-slim
+php:latest: debian:bullseye-slim

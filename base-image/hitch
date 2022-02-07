@@ -1,0 +1,5 @@
+hitch:1: debian:bullseye-slim
+hitch:1.7: debian:bullseye-slim
+hitch:1.7.2: debian:bullseye-slim
+hitch:1.7.2-1: debian:bullseye-slim
+hitch:latest: debian:bullseye-slim

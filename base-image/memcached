@@ -1,0 +1,8 @@
+memcached:1.6.13: debian:bullseye-slim
+memcached:1.6: debian:bullseye-slim
+memcached:1: debian:bullseye-slim
+memcached:latest: debian:bullseye-slim
+memcached:1.6.13-bullseye: debian:bullseye-slim
+memcached:1.6-bullseye: debian:bullseye-slim
+memcached:1-bullseye: debian:bullseye-slim
+memcached:bullseye: debian:bullseye-slim

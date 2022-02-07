@@ -1,0 +1,8 @@
+bash:5.1.16: alpine:3.15
+bash:5.1: alpine:3.15
+bash:5: alpine:3.15
+bash:latest: alpine:3.15
+bash:5.1.16-alpine3.15: alpine:3.15
+bash:5.1-alpine3.15: alpine:3.15
+bash:5-alpine3.15: alpine:3.15
+bash:alpine3.15: alpine:3.15

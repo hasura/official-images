@@ -1,0 +1,11 @@
+percona:5.7.35-centos: centos:8
+percona:5.7-centos: centos:8
+percona:5-centos: centos:8
+percona:centos: centos:8
+percona:5.7.35: centos:8
+percona:5.7: centos:8
+percona:5: centos:8
+percona:ps-5.7.35: centos:8
+percona:ps-5.7: centos:8
+percona:ps-5: centos:8
+percona:latest: centos:8

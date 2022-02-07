@@ -1,0 +1,4 @@
+irssi:1.2.3: debian:buster-slim
+irssi:1.2: debian:buster-slim
+irssi:1: debian:buster-slim
+irssi:latest: debian:buster-slim

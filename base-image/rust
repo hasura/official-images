@@ -1,0 +1,8 @@
+rust:1-bullseye: buildpack-deps:bullseye
+rust:1.58-bullseye: buildpack-deps:bullseye
+rust:1.58.1-bullseye: buildpack-deps:bullseye
+rust:bullseye: buildpack-deps:bullseye
+rust:1: buildpack-deps:bullseye
+rust:1.58: buildpack-deps:bullseye
+rust:1.58.1: buildpack-deps:bullseye
+rust:latest: buildpack-deps:bullseye

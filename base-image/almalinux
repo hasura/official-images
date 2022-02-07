@@ -1,0 +1,4 @@
+almalinux:latest: scratch
+almalinux:8: scratch
+almalinux:8.5: scratch
+almalinux:8.5-20211112: scratch

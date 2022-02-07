@@ -1,0 +1,8 @@
+haskell:9.2.1-buster: debian:buster
+haskell:9.2-buster: debian:buster
+haskell:9-buster: debian:buster
+haskell:buster: debian:buster
+haskell:9.2.1: debian:buster
+haskell:9.2: debian:buster
+haskell:9: debian:buster
+haskell:latest: debian:buster

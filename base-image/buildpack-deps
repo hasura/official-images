@@ -1,0 +1,3 @@
+buildpack-deps:bullseye: buildpack-deps:bullseye-scm
+buildpack-deps:stable: buildpack-deps:bullseye-scm
+buildpack-deps:latest: buildpack-deps:bullseye-scm

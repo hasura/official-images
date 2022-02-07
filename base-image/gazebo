@@ -1,0 +1,3 @@
+gazebo:libgazebo11: gazebo:gzserver11-focal
+gazebo:libgazebo11-focal: gazebo:gzserver11-focal
+gazebo:latest: gazebo:gzserver11-focal

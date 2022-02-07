@@ -1,0 +1,4 @@
+ghost:4.34.3: node:14-bullseye-slim
+ghost:4.34: node:14-bullseye-slim
+ghost:4: node:14-bullseye-slim
+ghost:latest: node:14-bullseye-slim

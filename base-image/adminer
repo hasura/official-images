@@ -1,0 +1,6 @@
+adminer:4.8.1-standalone: php:7.4-alpine
+adminer:4-standalone: php:7.4-alpine
+adminer:standalone: php:7.4-alpine
+adminer:4.8.1: php:7.4-alpine
+adminer:4: php:7.4-alpine
+adminer:latest: php:7.4-alpine

@@ -1,0 +1,5 @@
+sonarqube:9.3.0-community: alpine:3.14
+sonarqube:9.3-community: alpine:3.14
+sonarqube:9-community: alpine:3.14
+sonarqube:community: alpine:3.14
+sonarqube:latest: alpine:3.14

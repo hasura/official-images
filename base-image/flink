@@ -1,0 +1,12 @@
+flink:1.14.3-scala_2.12-java8: openjdk:8-jre
+flink:1.14-scala_2.12-java8: openjdk:8-jre
+flink:scala_2.12-java8: openjdk:8-jre
+flink:1.14.3-scala_2.12: openjdk:8-jre
+flink:1.14-scala_2.12: openjdk:8-jre
+flink:scala_2.12: openjdk:8-jre
+flink:1.14.3-java8: openjdk:8-jre
+flink:1.14-java8: openjdk:8-jre
+flink:java8: openjdk:8-jre
+flink:1.14.3: openjdk:8-jre
+flink:1.14: openjdk:8-jre
+flink:latest: openjdk:8-jre

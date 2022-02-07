@@ -1,0 +1,2 @@
+websphere-liberty:full: websphere-liberty:kernel
+websphere-liberty:latest: websphere-liberty:kernel

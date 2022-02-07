@@ -1,0 +1,3 @@
+arangodb:3.8: alpine:3.14
+arangodb:3.8.5: alpine:3.14
+arangodb:latest: alpine:3.14

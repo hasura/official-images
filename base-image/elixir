@@ -1,0 +1,3 @@
+elixir:1.13.2: erlang:24
+elixir:1.13: erlang:24
+elixir:latest: erlang:24

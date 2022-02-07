@@ -1,0 +1,2 @@
+aerospike:ee-5.7.0.10: debian:buster-slim
+aerospike:ce-5.7.0.10: debian:buster-slim

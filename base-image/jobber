@@ -1,0 +1,4 @@
+jobber:1.4.4-alpine3.11: alpine:3.11
+jobber:1.4-alpine3.11: alpine:3.11
+jobber:1-alpine3.11: alpine:3.11
+jobber:latest: alpine:3.11

@@ -1,0 +1,4 @@
+solr:8.11.1: openjdk:11-jre
+solr:8.11: openjdk:11-jre
+solr:8: openjdk:11-jre
+solr:latest: openjdk:11-jre

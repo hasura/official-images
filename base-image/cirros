@@ -1,0 +1,4 @@
+cirros:0.5.2: scratch
+cirros:0.5: scratch
+cirros:0: scratch
+cirros:latest: scratch

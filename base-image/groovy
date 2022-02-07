@@ -1,0 +1,10 @@
+groovy:3.0.9-jdk17: eclipse-temurin:17-jdk
+groovy:3.0-jdk17: eclipse-temurin:17-jdk
+groovy:jdk17: eclipse-temurin:17-jdk
+groovy:3.0.9-jdk: eclipse-temurin:17-jdk
+groovy:3.0-jdk: eclipse-temurin:17-jdk
+groovy:3.0.9: eclipse-temurin:17-jdk
+groovy:3.0: eclipse-temurin:17-jdk
+groovy:3: eclipse-temurin:17-jdk
+groovy:jdk: eclipse-temurin:17-jdk
+groovy:latest: eclipse-temurin:17-jdk

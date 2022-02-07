@@ -1,0 +1,4 @@
+eclipse-mosquitto:2.0.14: alpine:3.14
+eclipse-mosquitto:2.0: alpine:3.14
+eclipse-mosquitto:2: alpine:3.14
+eclipse-mosquitto:latest: alpine:3.14

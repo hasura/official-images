@@ -1,0 +1,6 @@
+traefik:v2.6.0: alpine:3.14
+traefik:2.6.0: alpine:3.14
+traefik:v2.6: alpine:3.14
+traefik:2.6: alpine:3.14
+traefik:rocamadour: alpine:3.14
+traefik:latest: alpine:3.14

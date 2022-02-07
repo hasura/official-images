@@ -1,0 +1,5 @@
+bonita:2021.2-u0: ubuntu:18.04
+bonita:2021.2: ubuntu:18.04
+bonita:7.13.0: ubuntu:18.04
+bonita:7.13: ubuntu:18.04
+bonita:latest: ubuntu:18.04

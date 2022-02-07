@@ -1,0 +1,5 @@
+kong:2.7.1-alpine: alpine:3.15
+kong:2.7.1: alpine:3.15
+kong:2.7: alpine:3.15
+kong:alpine: alpine:3.15
+kong:latest: alpine:3.15

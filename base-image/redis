@@ -1,0 +1,8 @@
+redis:6.2.6: debian:bullseye-slim
+redis:6.2: debian:bullseye-slim
+redis:6: debian:bullseye-slim
+redis:latest: debian:bullseye-slim
+redis:6.2.6-bullseye: debian:bullseye-slim
+redis:6.2-bullseye: debian:bullseye-slim
+redis:6-bullseye: debian:bullseye-slim
+redis:bullseye: debian:bullseye-slim

@@ -1,0 +1,8 @@
+backdrop:1.17.3: php:7.2-apache
+backdrop:1.17: php:7.2-apache
+backdrop:1: php:7.2-apache
+backdrop:1.17.3-apache: php:7.2-apache
+backdrop:1.17-apache: php:7.2-apache
+backdrop:1-apache: php:7.2-apache
+backdrop:apache: php:7.2-apache
+backdrop:latest: php:7.2-apache

@@ -1,0 +1,8 @@
+matomo:4.7.1-apache: php:8.0-apache
+matomo:4.7-apache: php:8.0-apache
+matomo:4-apache: php:8.0-apache
+matomo:apache: php:8.0-apache
+matomo:4.7.1: php:8.0-apache
+matomo:4.7: php:8.0-apache
+matomo:4: php:8.0-apache
+matomo:latest: php:8.0-apache

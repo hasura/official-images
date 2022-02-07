@@ -1,0 +1,4 @@
+ros:foxy-ros-base: ros:foxy-ros-core-focal
+ros:foxy-ros-base-focal: ros:foxy-ros-core-focal
+ros:foxy: ros:foxy-ros-core-focal
+ros:latest: ros:foxy-ros-core-focal

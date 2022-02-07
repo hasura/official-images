@@ -1,0 +1,4 @@
+notary:server-0.6.1-2: alpine:3.13
+notary:server: alpine:3.13
+notary:signer-0.6.1-2: alpine:3.13
+notary:signer: alpine:3.13

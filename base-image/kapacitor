@@ -1,0 +1,3 @@
+kapacitor:1.6: buildpack-deps:stretch-curl
+kapacitor:1.6.3: buildpack-deps:stretch-curl
+kapacitor:latest: buildpack-deps:stretch-curl

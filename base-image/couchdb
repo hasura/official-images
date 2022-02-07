@@ -1,0 +1,4 @@
+couchdb:latest: debian:buster-slim
+couchdb:3.2.1: debian:buster-slim
+couchdb:3.2: debian:buster-slim
+couchdb:3: debian:buster-slim

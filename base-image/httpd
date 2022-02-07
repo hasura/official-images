@@ -1,0 +1,8 @@
+httpd:2.4.52: debian:bullseye-slim
+httpd:2.4: debian:bullseye-slim
+httpd:2: debian:bullseye-slim
+httpd:latest: debian:bullseye-slim
+httpd:2.4.52-bullseye: debian:bullseye-slim
+httpd:2.4-bullseye: debian:bullseye-slim
+httpd:2-bullseye: debian:bullseye-slim
+httpd:bullseye: debian:bullseye-slim

@@ -1,0 +1,4 @@
+tomee:11-jre-8.0.9-webprofile: openjdk:11-jre
+tomee:8.0.9-webprofile: openjdk:11-jre
+tomee:latest: openjdk:11-jre
+tomee:8: openjdk:11-jre

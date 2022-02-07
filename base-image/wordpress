@@ -1,0 +1,16 @@
+wordpress:5.9.0-apache: php:7.4-apache
+wordpress:5.9-apache: php:7.4-apache
+wordpress:5-apache: php:7.4-apache
+wordpress:apache: php:7.4-apache
+wordpress:5.9.0: php:7.4-apache
+wordpress:5.9: php:7.4-apache
+wordpress:5: php:7.4-apache
+wordpress:latest: php:7.4-apache
+wordpress:5.9.0-php7.4-apache: php:7.4-apache
+wordpress:5.9-php7.4-apache: php:7.4-apache
+wordpress:5-php7.4-apache: php:7.4-apache
+wordpress:php7.4-apache: php:7.4-apache
+wordpress:5.9.0-php7.4: php:7.4-apache
+wordpress:5.9-php7.4: php:7.4-apache
+wordpress:5-php7.4: php:7.4-apache
+wordpress:php7.4: php:7.4-apache

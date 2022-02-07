@@ -1,0 +1,4 @@
+spiped:1.6.2: debian:bullseye-slim
+spiped:1.6: debian:bullseye-slim
+spiped:1: debian:bullseye-slim
+spiped:latest: debian:bullseye-slim

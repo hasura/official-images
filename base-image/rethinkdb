@@ -1,0 +1,8 @@
+rethinkdb:2.4.1-buster-slim: debian:buster-slim
+rethinkdb:2.4-buster-slim: debian:buster-slim
+rethinkdb:2-buster-slim: debian:buster-slim
+rethinkdb:buster-slim: debian:buster-slim
+rethinkdb:2.4.1: debian:buster-slim
+rethinkdb:2.4: debian:buster-slim
+rethinkdb:2: debian:buster-slim
+rethinkdb:latest: debian:buster-slim

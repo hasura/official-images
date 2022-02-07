@@ -1,0 +1,4 @@
+varnish:fresh: debian:bullseye-slim
+varnish:7.0.2: debian:bullseye-slim
+varnish:7.0: debian:bullseye-slim
+varnish:latest: debian:bullseye-slim

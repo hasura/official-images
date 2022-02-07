@@ -1,0 +1,3 @@
+zookeeper:3.7.0: openjdk:11-jre-slim
+zookeeper:3.7: openjdk:11-jre-slim
+zookeeper:latest: openjdk:11-jre-slim

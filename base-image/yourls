@@ -1,0 +1,8 @@
+yourls:1.8.2-apache: php:8.0-apache
+yourls:1.8-apache: php:8.0-apache
+yourls:1-apache: php:8.0-apache
+yourls:apache: php:8.0-apache
+yourls:1.8.2: php:8.0-apache
+yourls:1.8: php:8.0-apache
+yourls:1: php:8.0-apache
+yourls:latest: php:8.0-apache

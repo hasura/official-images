@@ -1,0 +1,6 @@
+postgres:14.1: debian:bullseye-slim
+postgres:14: debian:bullseye-slim
+postgres:latest: debian:bullseye-slim
+postgres:14.1-bullseye: debian:bullseye-slim
+postgres:14-bullseye: debian:bullseye-slim
+postgres:bullseye: debian:bullseye-slim

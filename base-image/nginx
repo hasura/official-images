@@ -1,0 +1,5 @@
+nginx:1.21.6: debian:bullseye-slim
+nginx:mainline: debian:bullseye-slim
+nginx:1: debian:bullseye-slim
+nginx:1.21: debian:bullseye-slim
+nginx:latest: debian:bullseye-slim

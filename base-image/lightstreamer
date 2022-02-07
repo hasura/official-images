@@ -1,0 +1,9 @@
+lightstreamer:7.2.2-jdk11-openjdk: openjdk:11-jdk
+lightstreamer:7.2-jdk11-openjdk: openjdk:11-jdk
+lightstreamer:7-jdk11-openjdk: openjdk:11-jdk
+lightstreamer:7.2.2-jdk11: openjdk:11-jdk
+lightstreamer:7.2-jdk11: openjdk:11-jdk
+lightstreamer:7-jdk11: openjdk:11-jdk
+lightstreamer:7.2.2: openjdk:11-jdk
+lightstreamer:7.2: openjdk:11-jdk
+lightstreamer:latest: openjdk:11-jdk

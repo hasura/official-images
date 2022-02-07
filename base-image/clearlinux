@@ -1,0 +1,2 @@
+clearlinux:latest: scratch
+clearlinux:base: scratch

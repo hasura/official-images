@@ -1,0 +1,4 @@
+couchbase:latest: ubuntu:20.04
+couchbase:enterprise: ubuntu:20.04
+couchbase:7.0.3: ubuntu:20.04
+couchbase:enterprise-7.0.3: ubuntu:20.04

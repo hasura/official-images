@@ -1,0 +1,4 @@
+ibmjava:8-jre: ubuntu:18.04
+ibmjava:jre: ubuntu:18.04
+ibmjava:8: ubuntu:18.04
+ibmjava:latest: ubuntu:18.04

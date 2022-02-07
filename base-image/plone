@@ -1,0 +1,8 @@
+plone:5.2.7-python38: python:3.8-slim-buster
+plone:5.2-python38: python:3.8-slim-buster
+plone:5-python38: python:3.8-slim-buster
+plone:python38: python:3.8-slim-buster
+plone:5.2.7: python:3.8-slim-buster
+plone:5.2: python:3.8-slim-buster
+plone:5: python:3.8-slim-buster
+plone:latest: python:3.8-slim-buster

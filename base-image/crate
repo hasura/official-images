@@ -1,0 +1,3 @@
+crate:4.7.0: centos:7
+crate:4.7: centos:7
+crate:latest: centos:7

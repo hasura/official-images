@@ -1,0 +1,3 @@
+archlinux:latest: alpine:3.12 scratch
+archlinux:base: alpine:3.12 scratch
+archlinux:base-20220130.0.46058: alpine:3.12 scratch

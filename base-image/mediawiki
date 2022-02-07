@@ -1,0 +1,4 @@
+mediawiki:1.37.1: php:7.4-apache
+mediawiki:1.37: php:7.4-apache
+mediawiki:stable: php:7.4-apache
+mediawiki:latest: php:7.4-apache

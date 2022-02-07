@@ -1,0 +1,8 @@
+hello-world:linux: scratch
+hello-world:latest: scratch
+hello-world:nanoserver-ltsc2022: mcr.microsoft.com/windows/nanoserver:ltsc2022
+hello-world:nanoserver: mcr.microsoft.com/windows/nanoserver:ltsc2022
+hello-world:latest: mcr.microsoft.com/windows/nanoserver:ltsc2022
+hello-world:nanoserver-1809: mcr.microsoft.com/windows/nanoserver:1809
+hello-world:nanoserver: mcr.microsoft.com/windows/nanoserver:1809
+hello-world:latest: mcr.microsoft.com/windows/nanoserver:1809

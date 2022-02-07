@@ -1,0 +1,12 @@
+gradle:7.3.3-jdk17: eclipse-temurin:17-jdk
+gradle:7.3-jdk17: eclipse-temurin:17-jdk
+gradle:7-jdk17: eclipse-temurin:17-jdk
+gradle:jdk17: eclipse-temurin:17-jdk
+gradle:7.3.3-jdk: eclipse-temurin:17-jdk
+gradle:7.3-jdk: eclipse-temurin:17-jdk
+gradle:7-jdk: eclipse-temurin:17-jdk
+gradle:jdk: eclipse-temurin:17-jdk
+gradle:7.3.3: eclipse-temurin:17-jdk
+gradle:7.3: eclipse-temurin:17-jdk
+gradle:7: eclipse-temurin:17-jdk
+gradle:latest: eclipse-temurin:17-jdk

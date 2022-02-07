@@ -1,0 +1,6 @@
+friendica:2021.09-apache: php:7.4-apache-bullseye
+friendica:apache: php:7.4-apache-bullseye
+friendica:stable-apache: php:7.4-apache-bullseye
+friendica:2021.09: php:7.4-apache-bullseye
+friendica:latest: php:7.4-apache-bullseye
+friendica:stable: php:7.4-apache-bullseye

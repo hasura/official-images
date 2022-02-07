@@ -1,0 +1,4 @@
+registry:2.7.1: alpine:3.11
+registry:2.7: alpine:3.11
+registry:2: alpine:3.11
+registry:latest: alpine:3.11

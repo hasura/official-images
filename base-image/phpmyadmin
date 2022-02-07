@@ -1,0 +1,8 @@
+phpmyadmin:5.1.1-apache: php:7.4-apache
+phpmyadmin:5.1-apache: php:7.4-apache
+phpmyadmin:5-apache: php:7.4-apache
+phpmyadmin:apache: php:7.4-apache
+phpmyadmin:5.1.1: php:7.4-apache
+phpmyadmin:5.1: php:7.4-apache
+phpmyadmin:5: php:7.4-apache
+phpmyadmin:latest: php:7.4-apache

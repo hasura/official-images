@@ -1,0 +1,6 @@
+amazoncorretto:8: amazonlinux:2
+amazoncorretto:8u322: amazonlinux:2
+amazoncorretto:8u322-al2: amazonlinux:2
+amazoncorretto:8-al2-full: amazonlinux:2
+amazoncorretto:8-al2-jdk: amazonlinux:2
+amazoncorretto:latest: amazonlinux:2

@@ -1,0 +1,9 @@
+xwiki:14: tomcat:9-jdk11
+xwiki:14.0: tomcat:9-jdk11
+xwiki:14-mysql-tomcat: tomcat:9-jdk11
+xwiki:14.0-mysql-tomcat: tomcat:9-jdk11
+xwiki:mysql-tomcat: tomcat:9-jdk11
+xwiki:stable-mysql-tomcat: tomcat:9-jdk11
+xwiki:stable-mysql: tomcat:9-jdk11
+xwiki:stable: tomcat:9-jdk11
+xwiki:latest: tomcat:9-jdk11

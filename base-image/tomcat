@@ -1,0 +1,16 @@
+tomcat:10.0.16-jdk11-openjdk-bullseye: openjdk:11-jdk-bullseye
+tomcat:10.0-jdk11-openjdk-bullseye: openjdk:11-jdk-bullseye
+tomcat:10-jdk11-openjdk-bullseye: openjdk:11-jdk-bullseye
+tomcat:jdk11-openjdk-bullseye: openjdk:11-jdk-bullseye
+tomcat:10.0.16-jdk11-openjdk: openjdk:11-jdk-bullseye
+tomcat:10.0-jdk11-openjdk: openjdk:11-jdk-bullseye
+tomcat:10-jdk11-openjdk: openjdk:11-jdk-bullseye
+tomcat:jdk11-openjdk: openjdk:11-jdk-bullseye
+tomcat:10.0.16-jdk11: openjdk:11-jdk-bullseye
+tomcat:10.0-jdk11: openjdk:11-jdk-bullseye
+tomcat:10-jdk11: openjdk:11-jdk-bullseye
+tomcat:jdk11: openjdk:11-jdk-bullseye
+tomcat:10.0.16: openjdk:11-jdk-bullseye
+tomcat:10.0: openjdk:11-jdk-bullseye
+tomcat:10: openjdk:11-jdk-bullseye
+tomcat:latest: openjdk:11-jdk-bullseye

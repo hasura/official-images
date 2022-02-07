@@ -1,0 +1,8 @@
+monica:3.6.1-apache: php:8.0-apache
+monica:3.6-apache: php:8.0-apache
+monica:3-apache: php:8.0-apache
+monica:apache: php:8.0-apache
+monica:3.6.1: php:8.0-apache
+monica:3.6: php:8.0-apache
+monica:3: php:8.0-apache
+monica:latest: php:8.0-apache

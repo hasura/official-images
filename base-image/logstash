@@ -1,0 +1,2 @@
+logstash:7.17.0: docker.elastic.co/logstash/logstash:7.17.0@sha256:79da580115c3a0a388eca043abe0ec1b06b76ff9b8aaeb87a2a8e667e4106230
+logstash:6.8.23: docker.elastic.co/logstash/logstash:6.8.23@sha256:d86f65d9c76e1f0f792cc20accda247d13676d368dc78dc44560545369834f01

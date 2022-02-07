@@ -1,0 +1,4 @@
+eggdrop:1.9: alpine:3.13
+eggdrop:1.9.1: alpine:3.13
+eggdrop:stable: alpine:3.13
+eggdrop:latest: alpine:3.13

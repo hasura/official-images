@@ -1,0 +1,3 @@
+neurodebian:buster: debian:buster
+neurodebian:nd100: debian:buster
+neurodebian:latest: debian:buster

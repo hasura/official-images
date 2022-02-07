@@ -1,0 +1,3 @@
+open-liberty:full: ibm-semeru-runtimes:open-8-jre-focal
+open-liberty:full-java8-openj9: ibm-semeru-runtimes:open-8-jre-focal
+open-liberty:latest: ibm-semeru-runtimes:open-8-jre-focal

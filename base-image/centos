@@ -1,0 +1,5 @@
+centos:latest: scratch
+centos:centos8: scratch
+centos:8: scratch
+centos:centos8.4.2105: scratch
+centos:8.4.2105: scratch

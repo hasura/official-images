@@ -1,0 +1,11 @@
+maven:3.8.4-openjdk-17: openjdk:17-jdk-oraclelinux8
+maven:3.8.4: openjdk:17-jdk-oraclelinux8
+maven:3.8.4-openjdk: openjdk:17-jdk-oraclelinux8
+maven:3.8-openjdk-17: openjdk:17-jdk-oraclelinux8
+maven:3.8: openjdk:17-jdk-oraclelinux8
+maven:3.8-openjdk: openjdk:17-jdk-oraclelinux8
+maven:3-openjdk-17: openjdk:17-jdk-oraclelinux8
+maven:3: openjdk:17-jdk-oraclelinux8
+maven:latest: openjdk:17-jdk-oraclelinux8
+maven:3-openjdk: openjdk:17-jdk-oraclelinux8
+maven:openjdk: openjdk:17-jdk-oraclelinux8

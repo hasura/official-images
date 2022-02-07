@@ -1,0 +1,4 @@
+composer:2.2.5: php:8-alpine
+composer:2.2: php:8-alpine
+composer:2: php:8-alpine
+composer:latest: php:8-alpine

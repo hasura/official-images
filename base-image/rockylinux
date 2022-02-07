@@ -1,0 +1,3 @@
+rockylinux:latest: scratch
+rockylinux:8: scratch
+rockylinux:8.5: scratch

@@ -1,0 +1,11 @@
+jruby:latest: openjdk:8-jre
+jruby:9: openjdk:8-jre
+jruby:9.3: openjdk:8-jre
+jruby:9.3.3: openjdk:8-jre
+jruby:9.3-jre: openjdk:8-jre
+jruby:9.3-jre8: openjdk:8-jre
+jruby:9.3.3-jre: openjdk:8-jre
+jruby:9.3.3-jre8: openjdk:8-jre
+jruby:9.3.3.0: openjdk:8-jre
+jruby:9.3.3.0-jre: openjdk:8-jre
+jruby:9.3.3.0-jre8: openjdk:8-jre

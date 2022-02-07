@@ -1,0 +1,5 @@
+debian:bullseye: scratch
+debian:bullseye-20220125: scratch
+debian:11.2: scratch
+debian:11: scratch
+debian:latest: scratch

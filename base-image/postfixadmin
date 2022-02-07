@@ -1,0 +1,8 @@
+postfixadmin:3.3.10-apache: php:7.4-apache
+postfixadmin:3.3-apache: php:7.4-apache
+postfixadmin:3-apache: php:7.4-apache
+postfixadmin:apache: php:7.4-apache
+postfixadmin:3.3.10: php:7.4-apache
+postfixadmin:3.3: php:7.4-apache
+postfixadmin:3: php:7.4-apache
+postfixadmin:latest: php:7.4-apache
